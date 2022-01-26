@@ -1,2 +1,2 @@
 This is a demo!
-Made by Mr. Wang and Mr. Wang alone
+Made by Mr. Wang (mostly) and of course the great Jack Crowley
